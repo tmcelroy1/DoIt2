@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5290BB1C1F02AE3E0011B568 /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5290BB1B1F02AE3E0011B568 /* CompleteTaskViewController.swift */; };
 		52F8F38E1F0209CB009F9CBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F8F38D1F0209CB009F9CBB /* AppDelegate.swift */; };
 		52F8F3901F0209CB009F9CBB /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F8F38F1F0209CB009F9CBB /* TaskViewController.swift */; };
 		52F8F3931F0209CB009F9CBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F8F3911F0209CB009F9CBB /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5290BB1B1F02AE3E0011B568 /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
 		52F8F38A1F0209CB009F9CBB /* DoIt2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoIt2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52F8F38D1F0209CB009F9CBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52F8F38F1F0209CB009F9CBB /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				52F8F38D1F0209CB009F9CBB /* AppDelegate.swift */,
 				52F8F38F1F0209CB009F9CBB /* TaskViewController.swift */,
 				52F8F3A41F021B56009F9CBB /* CreateTaskViewController.swift */,
+				5290BB1B1F02AE3E0011B568 /* CompleteTaskViewController.swift */,
 				52F8F3A21F0210A5009F9CBB /* TaskItem.swift */,
 				52F8F3911F0209CB009F9CBB /* Main.storyboard */,
 				52F8F3971F0209CB009F9CBB /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			files = (
 				52F8F3901F0209CB009F9CBB /* TaskViewController.swift in Sources */,
 				52F8F3961F0209CB009F9CBB /* DoIt2.xcdatamodeld in Sources */,
+				5290BB1C1F02AE3E0011B568 /* CompleteTaskViewController.swift in Sources */,
 				52F8F38E1F0209CB009F9CBB /* AppDelegate.swift in Sources */,
 				52F8F3A31F0210A5009F9CBB /* TaskItem.swift in Sources */,
 				52F8F3A51F021B56009F9CBB /* CreateTaskViewController.swift in Sources */,
@@ -313,6 +317,7 @@
 				52F8F3A11F0209CB009F9CBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
